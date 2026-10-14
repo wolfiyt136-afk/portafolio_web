@@ -1,0 +1,24 @@
+haeder{
+    font-family: arial, sans-serif;
+}
+
+.bg-primary{
+    background-color: #31465b !important;
+}
+
+.progress{
+    background-color: rgba(255, 255, 255, 0.2) !important;
+}
+
+.text-primary{
+    color: #3498db !important;
+}
+
+.card{
+    transition: transform 0.3s aese, box-shadow 0.3s ease;
+}
+
+.card:hover{
+    transform: translate(-15px0);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
